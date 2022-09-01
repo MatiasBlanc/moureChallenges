@@ -1,0 +1,20 @@
+{
+  "name": "codechalleng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev1": "node ./fizzBuzz.js",
+    "dev2": "node ./isAnagram.js",
+    "dev3": "node ./Fibonacci.js",
+    "dev4": "node ./primeNumber.js",
+    "dev5": "node ./areaPolygon.js",
+    "dev6": "node ./reverseString.js",
+    "dev7": "node ./repeatCountParagraph.js",
+    "dev8": "node ./decimalToBinary.js",
+    "dev9": "node ./morseCode.js",
+    "dev31": "node ./detectYearsBicycles.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
